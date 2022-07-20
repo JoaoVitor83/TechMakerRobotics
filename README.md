@@ -1,12 +1,5 @@
-﻿# TechMakerRobotics
-Dividido em 4 Areas
--Telemtria
--Navegação
--Controles
--Dispositivos
+*TechMakerRobotics
 
-Responsáveis:
--Vinicius = Telemetria
--João = Navegação
--Matheus = Dispositivos
--Amanda = Controles e Revisão
+- Código baseado em subSistemas, escrito com o padrão de nomenclatura camelCase,
+onde usamos esse repositório para organizar nossos códigos e separar cada tarefa, sem atrapalhar 
+o fuxo de trabalho de ninguém
